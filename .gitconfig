@@ -1,0 +1,6 @@
+[user]
+	name = cym
+	email = creat1212@gmail.com
+[core]
+	autocrlf = true
+	safecrlf = true

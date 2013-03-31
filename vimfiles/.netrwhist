@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='D:\www\elgg\mod\hello_world\views\default\hello_world'
+let g:netrw_dirhist_2='D:/www/elgg/mod/hello_world/views/default'
+let g:netrw_dirhist_3='D:/www/elgg/mod/hello_world/views'
+let g:netrw_dirhist_4='D:/www/elgg/mod/hello_world'
+let g:netrw_dirhist_5='D:/www/elgg/mod/hello_world/languages'
+let g:netrw_dirhist_6='D:\www\elgg\mod\hello_world\languages'
+let g:netrw_dirhist_7='D:/www/elgg/mod/hello_world'
